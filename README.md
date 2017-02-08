@@ -9,3 +9,10 @@ push是把本地库代码推送到远程库
 add是把工作区的修改文件添加到暂存区
 commit是把暂存区的修改文件提交到本地库
 checkout是把本地库的代码拉取到工作区
+
+git checkout -b dev  新建分支dev并切换到这个分支
+相当于下面2条命令
+git branch dev
+git checkout dev
+
+git branch列出所有分支， 当前分支前面会标一个*号
