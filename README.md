@@ -16,3 +16,8 @@ git branch dev
 git checkout dev
 
 git branch列出所有分支， 当前分支前面会标一个*号
+git merge dev 合并分支dev到当前分支
+git branch -d dev 删除dev分支
+
+冲突问题
+
