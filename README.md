@@ -16,3 +16,5 @@ git branch dev
 git checkout dev
 
 git branch列出所有分支， 当前分支前面会标一个*号
+
+解决冲突问题
